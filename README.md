@@ -8,7 +8,7 @@
 - Axios
 - CSS / SCSS
 
-### Мои проекты:
+### Мои основные проекты:
 - [Slack copy](https://github.com/sMayWhatIsYourName2020/slack-copy)
 Упрощенная версия чата Slack. Я реализовывал Frontend часть этого веб-приложения.
 - [Translate](https://github.com/sMayWhatIsYourName2020/translate)
