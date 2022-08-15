@@ -6,6 +6,7 @@
 - Redux / Redux Toolkit
 - React Router Dom
 - Axios
+- React Hook Form / Formik
 - CSS / SCSS
 
 ### Мои основные проекты:
