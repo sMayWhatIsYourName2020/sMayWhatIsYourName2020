@@ -26,4 +26,5 @@
 - [Тестовое в компанию SNHPRO](https://github.com/sMayWhatIsYourName2020/snhpro-test)
 Нужно было сделать авторизацию/регистрацию, создание/изменение/удаление заметок/папок, обработать ошибки с сервера, валидацию форм на клиенте.
 Также были добавлены лоадеры и уведомления о действиях юзера
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sMayWhatIsYourName2020&layout=compact)](https://github.com/sMayWhatIsYourName2020/)
